@@ -2,6 +2,12 @@
 ### covid19 dashboard
 Made using covid19india.org API
 
+
+
+
+
+## Screenshot ofthe website
+
 ![Screenshot (322)](https://github.com/Saurabhparshar/Covid19/assets/109866847/42a52ab3-1a1f-4e8f-958a-7b91151d4bc7)
 
 <br/>
