@@ -1,5 +1,6 @@
 # Covid19
-covid19 dashboard
+###covid19 dashboard
+made using covid19india.org API
 
 ![Screenshot (322)](https://github.com/Saurabhparshar/Covid19/assets/109866847/42a52ab3-1a1f-4e8f-958a-7b91151d4bc7)
 
