@@ -1,6 +1,6 @@
 # Covid19
 ### covid19 dashboard
-Made using covid19india.org API
+Made using covid19india.org API.
 
 ## Demo the website
 <br/>
