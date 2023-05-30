@@ -3,7 +3,7 @@
 Made using covid19india.org API
 
 ## Demo the website
-covid19dashboard-saurabh.netlify.app/
+htttps://covid19dashboard-saurabh.netlify.app/
 
 <br/>
 
