@@ -1,4 +1,4 @@
-# Covid19
+# Covid19 Dashboard
 ### covid19 dashboard
 Made using covid19india.org API.
 
