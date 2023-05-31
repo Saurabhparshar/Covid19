@@ -1,6 +1,8 @@
 # Covid19 Dashboard
 ### Tech stack used.
 Made using covid19india.org API.
+Used redux for state management.
+Used react along with it and hosted it on netlify.
 
 ## Demo the website :)
 <br/>
