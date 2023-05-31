@@ -1,5 +1,5 @@
 # Covid19 Dashboard
-### covid19 dashboard
+### Tech stack used.
 Made using covid19india.org API.
 
 ## Demo the website :)
