@@ -1,4 +1,4 @@
-# Covid19 Dashboard
+# Covid19 Dashboard.
 ### Tech stack used.
 Made using covid19india.org API.<br/>
 Used redux for state management.<br/>
